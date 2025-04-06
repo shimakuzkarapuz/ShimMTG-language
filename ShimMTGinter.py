@@ -58,6 +58,7 @@ class ShimMTGInterpreter:
             (' crew ', ' > '),
             (' saddle_keep ', ' <= '),
             (' crew_keep ', ' >= '),
+            (' perpetual ', ' % '),
             ('wintheroll', 'if'),
             ('losetheroll', 'else'),
             ('rollagain', 'elif'),

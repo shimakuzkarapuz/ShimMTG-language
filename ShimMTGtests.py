@@ -68,7 +68,7 @@ whenever count saddle 3:
 
     @patch('builtins.input', return_value='42')
     def test_input_handling(self, mock_input):
-        self.interpreter.execute('player x = exile(draw())')
+        self.interpreter.execute('player x = attack(draw())')
         self.assertEqual(self.interpreter.namespace.get('x'), 42)
 
     def test_random_library(self):
