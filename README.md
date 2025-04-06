@@ -1,6 +1,6 @@
 # ShimMTG - Язык программирования в стиле Magic: The Gathering
 
-**GitHub репозиторий:** [https://github.com/shimakuzkarapuz/ShimMTG](https://github.com/shimakuzkarapuz/ShimMTG)
+**GitHub репозиторий:** [https://github.com/shimakuzkarapuz/ShimMTG-language](https://github.com/shimakuzkarapuz/ShimMTG-language)
 
 ## Описание языка
 ShimMTG — это интерпретируемый язык программирования, вдохновлённый механиками Magic: The Gathering (MTG).
