@@ -8,7 +8,7 @@ ShimMTG — это интерпретируемый язык программи�
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/ShimMTG.git
+   git clone https://github.com/yourusername/ShimMTG-language.git
    cd ShimMTG
 2. Запустите интерпретатор:
   ```bash
